@@ -1,0 +1,13 @@
+package com.lostlink.entity;
+
+public enum NotificationType {
+    MATCH_FOUND,
+    CLAIM_SUBMITTED,
+    CLAIM_APPROVED,
+    CLAIM_REJECTED,
+    HANDOVER_SCHEDULED,
+    ITEM_RECOVERED,
+    COMMUNITY_ALERT,
+    SECURITY_ALERT,
+    SAVED_SEARCH_MATCH
+}
