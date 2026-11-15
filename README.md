@@ -212,6 +212,8 @@ npm run dev
 *Frontend will be accessible at: `http://localhost:5173`*
 
 ---
+## live at : 
+https://lak96146-cyber.github.io/register
 
 ## 7. 20-Step Acceptance Verification Workflow
 
